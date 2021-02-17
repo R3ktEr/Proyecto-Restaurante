@@ -82,7 +82,7 @@ public class Client extends Person{
 
 	@Override
 	public String toString() {
-		return "Cliente:\nDni: " + dni + "\nNombre: " + name + "\nEdad: " + age + "\nDireccion: " + Arrays.toString(address) + "\nPedidos: "+ orders.length + "\nPuntos: "
+		return "Cliente:\nDni: " + dni + " Nombre: " + name + " Edad: " + age + " Direccion: " + Arrays.toString(address) + " Pedidos: "+ orders.length + " Puntos: "
 				+ points;
 	}
 	

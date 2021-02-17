@@ -49,7 +49,7 @@ public class Person{
 
 	@Override
 	public String toString() {
-		return "Persona: Dni: " + dni + "\nNombre: " + name + "\nEdad: " + age;
+		return "Persona:\n Dni: " + dni + " Nombre: " + name + " Edad: " + age;
 	}
 	
 	

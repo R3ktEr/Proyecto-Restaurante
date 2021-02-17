@@ -4,7 +4,24 @@ import java.util.ArrayList;
 
 public class RepositoryClients implements IRepositoryClients{
 
-	ArrayList<Client> clientList=new ArrayList<>();
+	private ArrayList<Client> clientList;
+	private static RepositoryClients myRepository;
+	
+	private RepositoryClients() {
+	
+		clientList=new ArrayList<Client>();
+	}
+	
+	@SuppressWarnings("unused")
+	private static RepositoryClients getMyRepositoryClients()
+	{
+		if(myRepository==null)
+		{
+			myRepository=new RepositoryClients();
+		}
+		
+		return myRepository;
+	}
 
 	/**
 	 * @return clientList: Devuelve el ArrayList de clientes.
