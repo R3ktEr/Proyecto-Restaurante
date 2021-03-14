@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RepositoryOrders>
+    <order>
+        <client>
+            <age>32</age>
+            <dni>23423165-F</dni>
+            <name>Juan Perez</name>
+            <address>C/La Fuente</address>
+            <address>Vado del Moro S/N</address>
+            <orders>1</orders>
+            <points>1</points>
+        </client>
+        <cart>
+            <noConfirmedOrder>
+                <cuantity>2</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+                    <id>1</id>
+                    <name>Coca Cola</name>
+                    <price>1.0</price>
+                    <forCeliac>true</forCeliac>
+                    <alcoholic>false</alcoholic>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>1</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>6</id>
+                    <name>Hamburguesa</name>
+                    <price>3.0</price>
+                    <forCeliac>false</forCeliac>
+                    <forVegans>false</forVegans>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>1</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>10</id>
+                    <name>Pizza</name>
+                    <price>4.8</price>
+                    <forCeliac>true</forCeliac>
+                    <forVegans>false</forVegans>
+                </product>
+            </noConfirmedOrder>
+        </cart>
+        <orderId>1</orderId>
+        <total>8.82</total>
+        <totalProducts>4</totalProducts>
+        <date>2021-02-08 20:40:49</date>
+        <address>C/La Fuente</address>
+        <delivered>false</delivered>
+        <paid>true</paid>
+        <saved>false</saved>
+    </order>
+    <order>
+        <client>
+            <age>25</age>
+            <dni>67898072-E</dni>
+            <name>Jose Luis Roldan</name>
+            <address>Av/ Jose Solis Nº7 Bloque: 4 Piso: 2 Puerta: A</address>
+            <orders>1</orders>
+            <points>1</points>
+        </client>
+        <cart>
+            <noConfirmedOrder>
+                <cuantity>2</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+                    <id>3</id>
+                    <name>Agua</name>
+                    <price>0.7</price>
+                    <forCeliac>true</forCeliac>
+                    <alcoholic>false</alcoholic>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>1</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>9</id>
+                    <name>Kebab</name>
+                    <price>2.5</price>
+                    <forCeliac>false</forCeliac>
+                    <forVegans>false</forVegans>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>1</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>8</id>
+                    <name>Ensalada</name>
+                    <price>1.5</price>
+                    <forCeliac>true</forCeliac>
+                    <forVegans>true</forVegans>
+                </product>
+            </noConfirmedOrder>
+        </cart>
+        <orderId>2</orderId>
+        <total>5.4</total>
+        <totalProducts>4</totalProducts>
+        <date>2021-03-08 20:48:06</date>
+        <address>Av/ Jose Solis Nº7 Bloque: 4 Piso: 2 Puerta: A</address>
+        <delivered>true</delivered>
+        <paid>true</paid>
+        <saved>false</saved>
+    </order>
+    <order>
+        <client>
+            <age>19</age>
+            <dni>26793278-L</dni>
+            <name>Alicia Ruiz</name>
+            <address>Av/ La Constitucion Nº3</address>
+            <orders>1</orders>
+            <points>1</points>
+        </client>
+        <cart>
+            <noConfirmedOrder>
+                <cuantity>2</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>7</id>
+                    <name>Patatas</name>
+                    <price>0.7</price>
+                    <forCeliac>true</forCeliac>
+                    <forVegans>true</forVegans>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>2</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>6</id>
+                    <name>Hamburguesa</name>
+                    <price>3.0</price>
+                    <forCeliac>false</forCeliac>
+                    <forVegans>false</forVegans>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>1</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+                    <id>3</id>
+                    <name>Agua</name>
+                    <price>0.7</price>
+                    <forCeliac>true</forCeliac>
+                    <alcoholic>false</alcoholic>
+                </product>
+            </noConfirmedOrder>
+        </cart>
+        <orderId>3</orderId>
+        <total>7.73</total>
+        <totalProducts>5</totalProducts>
+        <date>2021-03-13 20:50:07</date>
+        <address>Av/ La Constitucion Nº3</address>
+        <delivered>false</delivered>
+        <paid>false</paid>
+        <saved>false</saved>
+    </order>
+    <order>
+        <client>
+            <age>19</age>
+            <dni>26793278-L</dni>
+            <name>Alicia Ruiz</name>
+            <address>Av/ La Constitucion Nº3</address>
+            <orders>2</orders>
+            <points>2</points>
+        </client>
+        <cart>
+            <noConfirmedOrder>
+                <cuantity>3</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+                    <id>2</id>
+                    <name>Fanta</name>
+                    <price>1.0</price>
+                    <forCeliac>true</forCeliac>
+                    <alcoholic>false</alcoholic>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>3</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>7</id>
+                    <name>Patatas</name>
+                    <price>0.7</price>
+                    <forCeliac>true</forCeliac>
+                    <forVegans>true</forVegans>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>3</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>9</id>
+                    <name>Kebab</name>
+                    <price>2.5</price>
+                    <forCeliac>false</forCeliac>
+                    <forVegans>false</forVegans>
+                </product>
+            </noConfirmedOrder>
+        </cart>
+        <orderId>4</orderId>
+        <total>12.6</total>
+        <totalProducts>9</totalProducts>
+        <date>2021-03-13 22:22:47</date>
+        <address>Av/ La Constitucion Nº3</address>
+        <delivered>false</delivered>
+        <paid>true</paid>
+        <saved>false</saved>
+    </order>
+    <order>
+        <client>
+            <age>57</age>
+            <dni>19745675-T</dni>
+            <name>Ana Prieto</name>
+            <address>C/San Jose Nº12</address>
+            <orders>1</orders>
+            <points>3</points>
+        </client>
+        <cart>
+            <noConfirmedOrder>
+                <cuantity>2</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+                    <id>2</id>
+                    <name>Fanta</name>
+                    <price>1.0</price>
+                    <forCeliac>true</forCeliac>
+                    <alcoholic>false</alcoholic>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>2</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="drink">
+                    <id>1</id>
+                    <name>Coca Cola</name>
+                    <price>1.0</price>
+                    <forCeliac>true</forCeliac>
+                    <alcoholic>false</alcoholic>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>2</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>9</id>
+                    <name>Kebab</name>
+                    <price>2.5</price>
+                    <forCeliac>false</forCeliac>
+                    <forVegans>false</forVegans>
+                </product>
+            </noConfirmedOrder>
+            <noConfirmedOrder>
+                <cuantity>2</cuantity>
+                <product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="food">
+                    <id>10</id>
+                    <name>Pizza</name>
+                    <price>4.8</price>
+                    <forCeliac>true</forCeliac>
+                    <forVegans>false</forVegans>
+                </product>
+            </noConfirmedOrder>
+        </cart>
+        <orderId>5</orderId>
+        <total>18.6</total>
+        <totalProducts>8</totalProducts>
+        <date>2021-03-13 22:42:13</date>
+        <address>C/San Jose Nº12</address>
+        <delivered>false</delivered>
+        <paid>false</paid>
+        <saved>false</saved>
+    </order>
+</RepositoryOrders>

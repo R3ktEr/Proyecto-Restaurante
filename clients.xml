@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RepositoryClient>
+    <client>
+        <age>32</age>
+        <dni>23423165-F</dni>
+        <name>Juan Perez</name>
+        <address>C/La Fuente</address>
+        <address>Vado del Moro S/N</address>
+        <orders>1</orders>
+        <points>1</points>
+    </client>
+    <client>
+        <age>25</age>
+        <dni>67898072-E</dni>
+        <name>Jose Luis Roldan</name>
+        <address>Av/ Jose Solis Nº7 Bloque: 4 Piso: 2 Puerta: A</address>
+        <orders>1</orders>
+        <points>1</points>
+    </client>
+    <client>
+        <age>19</age>
+        <dni>26793278-L</dni>
+        <name>Alicia Ruiz</name>
+        <address>Av/ La Constitucion Nº3</address>
+        <orders>2</orders>
+        <points>2</points>
+    </client>
+    <client>
+        <age>57</age>
+        <dni>19745675-T</dni>
+        <name>Ana Prieto</name>
+        <address>C/San Jose Nº12</address>
+        <orders>1</orders>
+        <points>3</points>
+    </client>
+</RepositoryClient>
